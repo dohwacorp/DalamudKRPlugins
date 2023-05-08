@@ -46,8 +46,8 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Jawslouis | [MakePlace Plugin](https://github.com/jawslouis/MakePlacePlugin) | 하우징 프리셋 플러그인 |
 | Bluefissure | [MapLinker](https://github.com/Bluefissure/MapLinker) | 채팅에 깃발을 기록하고, 목록으로도 볼 수 있는 플러그인 |
 | Meli & perchbird | [Orchestrion Plugin](https://github.com/lmcintyre/OrchestrionPlugin) | 현재 배경음악 이름을 보여주는 플러그인 |
-| MgAl2O4 | [Pat Me](https://github.com/MgAl2O4/PatMeDalamud) | 라라펠이 얼마나 많은 쓰담을 받는지 알고 싶으신가요? |
 | shdwp, Avaflow, squidmade | [PartyIcons](https://github.com/shdwp/xivPartyIcons) | 이름에 직업 아이콘이나 역할을 표시하는 플러그인 |
+| MgAl2O4 | [Pat Me](https://github.com/MgAl2O4/PatMeDalamud) | 라라펠이 얼마나 많은 쓰담을 받는지 알고 싶으신가요? |
 | ascclemens | [Peeping Tom](https://git.annaclemens.io/ascclemens/PeepingTom) | 나를 봤거나 보고 있는 사람이 누구인지 보여주는 플러그인 |
 | Adam | [Penumbra](https://github.com/xivdev/Penumbra) | 인게임에서 다양한 모드를 관리할 수 있는 플러그인 |
 | Haplo064 | [Pixel Perfect](https://github.com/Haplo064/PixelPerfect) | 현재 위치를 점 또는 원으로 보여주는 플러그인 |
