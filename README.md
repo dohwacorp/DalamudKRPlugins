@@ -1,14 +1,16 @@
 # 플러그인 목록
 
-These are community-made plugins that you can install by using /xlplugins in-game when the in-game addon is enabled.
+여러 사람들이 만든 달라가브 플러그인들입니다.
+/xlplugins 명령어를 통해 설치할 수 있습니다.
 <br>
 They are made by third-party developers, not associated with XIVLauncher. You can read more about each of them by clicking their name.
 
 
 | Author | Name | Description |
 |---------------|---------------|-----------------|
-| Ottermandias | [Accountant](https://github.com/Ottermandias/Accountant) | Keep track of retainer, airship, submersible, aetherial wheel and crop timers as well as several miscallaneous tasks of multiple characters. |
-| Helios | [Adaptive Hud](https://github.com/Helios747/AdaptiveHudPlugin) | Useful for ultrawide users, swapping from windowed/fullscreen will automatically switch your hudlayout.<br><br>/pah to configure |
+| Ottermandias | [Accountant](https://github.com/Ottermandias/Accountant) | 집사, 비공정, 잠수함, 에테르석과 작물 등 여러 캐릭터의 타이머를 관리할 수 있는 플러그인 |
+| Tischel | [Action Timeline](https://github.com/Tischel/ActionTimeline) | 시전한 스킬들을 타임라인 형식으로 보여주는 플러그인 |
+| Helios | [Adaptive Hud](https://github.com/Helios747/AdaptiveHudPlugin) | 울트라와이드 모니터 유저에게 유용하며, 전체화면/창모드 전환 시에 자동으로 HUD 레이아웃을 변경해주는 플러그인<br><br>설정 명령어 : /pah |
 | Caraxi | [Adventurer in Need](https://github.com/Caraxi/AdventurerInNeed) | Recieve a notification when a duty roulette is in need of a role. /pbonus to setup |
 | ascclemens | [Better Party Finder](https://git.annaclemens.io/ascclemens/BetterPartyFinder) | Filter the party finder better.<br><br>All vanilla filtering is available, plus:<br><br>- Create filter presets to easily switch between<br>- Whitelist/blacklist specific duties and categories<br>- Add character names to hide PFs from<br>- Remove PFs above maximum item level<br>- Filter on item level range<br>- Filter on multiple jobs and slots (ex. MCH + GNB available) |
 | d87 | [BigPlayerDebuffs](https://github.com/rgd87/BigPlayerDebuffs) | Scales up buffs/debuffs applied by you on Target Status frames |
