@@ -5,6 +5,7 @@
 <br>
 They are made by third-party developers, not associated with XIVLauncher. You can read more about each of them by clicking their name.
 
+| asdf | [asdf](asdf) | asdf |
 
 | Author | Name | Description |
 |---------------|---------------|-----------------|
@@ -18,25 +19,23 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | d87 | [BigPlayerDebuffs](https://github.com/rgd87/BigPlayerDebuffs) | 타겟에게 건 디버프의 아이콘을 좀 더 키워주는 플러그인 |
 | ascclemens | [Chat 2](https://git.annaclemens.io/ascclemens/ChatTwo) | 인게임 채팅창을 좀 더 깔끔한 창으로 바꿔주는 플러그인<br>지원하는 기능:<br><br>- 무제한 탭<br>- 특정 채팅 채널로 보내주는 탭<br>- 보다 유연한 필터링<br>- RGB 컬러링<br>- 자유로운 폰트 크기<br>- 사이드바 방식의 탭<br>- 읽지 않은 메시지 표시<br>- 스크린샷 모드 (obfuscate names) |
 | Haplo064 & Khayle | [Chat Bubbles](https://github.com/Haplo064/ChatBubbles) | 채팅을 말풍선으로 보여주는 플러그인 |
-| kij | [ChatCoordinates](https://github.com/kissorjeyabalan/dalamud-chatcoordinates) | Places flag marker on map from coordinates in chat.<br>Opens map with given coordinates for current or given zone.<br>See "/coord" for configuration and usage info. |
-| Franz | [ChatTyper](https://github.com/reiichi001/dalamud-chattyper) | Prefixes all chatbox messages with their chat type number and name, if known. |
-| MidoriKami | [Chill Frames](https://github.com/MidoriKami/ChillFrames) | Tired of your GPU melting your face off while just running around? Why render at 240 FPS when you're just staring at that gathering node? Fret no more! Chill Frames allows you to limit the games framerate while out of combat! |
-| NotNite | [cl_showpos](https://gitlab.com/jules/cl_showpos) | Shows your exact position, rotation, and velocity on screen. Based off of the cl_showpos command from the Source Engine. |
-| Lharz | [Currency Alert](https://github.com/Lharz/xiv-currency-alert) | /currencyalert: shows the configuration panel. |
-| goat, modded by Franz | [Discord Chat Bridge](https://github.com/reiichi001/Dalamud.DiscordBridge) | This plugin allows you to receive your chat messages via Discord. |
-| goat | Wotsit | Adds a convenient quick search akin to Spotlight that lets you open game windows, teleport, find wiki articles, and more.<br>Press Control + T to open the search window. This can be changed by searching for "Wotsit Settings". |
+| Chivalrik | [Compass](https://github.com/fitzchivalrik/compass) | 나침반을 표시해주는 플러그인 |
+| MidoriKami | [Daily Duty](https://github.com/MidoriKami/DailyDuty) | 일일/주간/특수 할일을 표시해주는 플러그인 |
+| perchbird | [Damage Info](https://github.com/lmcintyre/DamageInfoPlugin) | 인게임 데미지 표시를 다양하게 설정 가능한 플러그인 |
+| Kouzukii | [Death Recap](https://github.com/Kouzukii/ffxiv-deathrecap) | 사망 시 사망 원인을 보여주는 플러그인 |
+| goat, modded by Franz | [Discord Chat Bridge](https://github.com/reiichi001/Dalamud.DiscordBridge) | 인게임 채팅을 디스코드로 받을 수 있게 해주는 플러그인 |
+| goat | [Discord Rich Presence](https://github.com/goaaats/Dalamud.RichPresence) | 위치, 직업, 레벨, 이름, 서버와 파티 정보 등을 디스코드 상태 메시지로 표시해주는 플러그인 |
+| PunishedPineapple | [Distance](https://github.com/PunishedPineapple/Distance) | 대상과의 거리를 보여주는 플러그인 |
+| Speedas | Emote log | 받은 감정표현 기록을 보여주는 플러그인 |
+| Xorus | [EngageTimer](https://github.com/xorus/EngageTimer) | 커스텀 가능한 초읽기 플러그인 |
+
 | Not Cara | [Ultrawide Cutscenes](https://github.com/goaaats/Dalamud.FullscreenCutscenes) | This plugin removes the "letterboxing" bars when watching cutscenes on ultrawide monitors.<br>Beware! You may see things that you are not supposed to be seeing, such as upcoming NPCs popping in or T-posing.<br><br>Thanks to aers for finding this. |
 | goat | Fancy Loading Screens | This plugin shows the destination zone's concept art while loading.<br>NOTE: ONLY LOOKS RIGHT ON 16:9 SCREENS! The concept art is not any bigger, and we can't expand/fix it. Sorry! |
-| goat | Discord Rich Presence | This plugin allows you to show your zone, job, level, name, and world in your Discord status. |
-| perchbird | [Damage Info](https://github.com/lmcintyre/DamageInfoPlugin) | Configurable options for in-game fly text color based on damage type, with additional settings for damage source and fly text decluttering options. |
-| Kouzukii | [Death Recap](https://github.com/Kouzukii/ffxiv-deathrecap) | Quickly figure out what killed you or your party members!<br><br>Shows:<br>- Healing<br>- Damage taken<br>- Debuffs<br>- Buffs<br>- Barriers<br>- Addle, Feint, Reprisal on damage source |
 | jdsmith2816 | [DelvUI](https://github.com/delvui/delvui) | DelvUI provides a highly configurable HUD replacement and is highly inspired by ElvUI from WoW |
 | PGGB | [DeviceChangeFix](https://github.com/PGGB/DeviceChangeFix) | Stops controller input from freezing randomly. |
-| PunishedPineapple | [Distance](https://github.com/PunishedPineapple/Distance) | Displays the distance in yalms to the target (or optionally to the target's ring), and can display distance until aggro range for supported bosses. |
 | ocealot | [EasyEyes](https://github.com/0ceal0t/EasyEyes) | A plugin which can hide any VFX. Icon by PAPACHIN |
 | Dante Souza e Souza - aka lokinmodar | [Echoglossian](https://github.com/lokinmodar/Echoglossian) | Realtime game text translator |
 | Felys | [EnemyListDebuffs](https://github.com/Felys1998/EnemyListDebuffs) | Displays your debuffs on the enemy list. Original implementation credit to aers. |
-| Xorus | [EngageTimer](https://github.com/xorus/EngageTimer) | Finally, display all the numbers when starting a countdown!<br>Comes with an accurate pull timer that starts when you or any of your party members enter combat.<br><br>Features :<br>- Big countdown that displays all the numbers<br>- Customizable big-number textures (default, yellow, WoW style or custom files)<br>- Display combat time in the Server Info Bar, and/or a floating window<br>- OBS browser-source compatible page with countdown and current combat duration<br><br>Why the OBS thing ? Well, it can be useful if you want a big stylized stopwatch in your recordings.<br>See repository for more info.<br><br>Feel free so send me feedback, bugs and potential improvements! |
 | Eternita | [EnemyListHP](https://github.com/Eternita-S/EnmityHp) | Displays enemies hp in enemy list. Just does that, nothing else.  |
 | ascclemens | [Expanded Search Info](https://git.annaclemens.io/ascclemens/ExpandedSearchInfo) | Displays extra information pulled from search info when examining.<br><br>Support for:<br>- Any plain text URL<br>- Pastebin.com<br>- carrd.co/crd.co<br>- F-List<br>- Refsheet<br><br>Simply examine someone with a search info containing pointers to one of<br>these locations and the plugin will display information automatically.<br><br>Icon: expand by Gregor Cresnar from the Noun Project |
 | ascclemens | [ExtraChat](https://git.annaclemens.io/ascclemens/ExtraChat) | ExtraChat adds end-to-end encrypted, cross-data-centre, unlimited linkshells<br>to the game. |
