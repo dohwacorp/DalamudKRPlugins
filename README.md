@@ -10,16 +10,15 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 |---------------|---------------|-----------------|
 | Ottermandias | [Accountant](https://github.com/Ottermandias/Accountant) | 집사, 비공정, 잠수함, 에테르석과 작물 등 여러 캐릭터의 타이머를 관리할 수 있는 플러그인 |
 | Tischel | [Action Timeline](https://github.com/Tischel/ActionTimeline) | 시전한 스킬들을 타임라인 형식으로 보여주는 플러그인 |
-| Helios | [Adaptive Hud](https://github.com/Helios747/AdaptiveHudPlugin) | 울트라와이드 모니터 유저에게 유용하며, 전체화면/창모드 전환 시에 자동으로 HUD 레이아웃을 변경해주는 플러그인<br><br>설정 명령어 : /pah |
-| Caraxi | [Adventurer in Need](https://github.com/Caraxi/AdventurerInNeed) | Recieve a notification when a duty roulette is in need of a role. /pbonus to setup |
-| ascclemens | [Better Party Finder](https://git.annaclemens.io/ascclemens/BetterPartyFinder) | Filter the party finder better.<br><br>All vanilla filtering is available, plus:<br><br>- Create filter presets to easily switch between<br>- Whitelist/blacklist specific duties and categories<br>- Add character names to hide PFs from<br>- Remove PFs above maximum item level<br>- Filter on item level range<br>- Filter on multiple jobs and slots (ex. MCH + GNB available) |
-| d87 | [BigPlayerDebuffs](https://github.com/rgd87/BigPlayerDebuffs) | Scales up buffs/debuffs applied by you on Target Status frames |
-| Styr1x | [Browsingway](https://github.com/Styr1x/Browsingway) | Renders browser overlays in-game to enable playing in fullscreen (and G-SYNC) while having access to ACT overlays.<br>Use the settings button below or the '/bw config' command to configure.<br>Based on the BrowserHost plugin by ackwell. |
-| ascclemens | [Burnt Toast](https://git.annaclemens.io/ascclemens/BurntToast) | Hides toast notifications you don't want to see. |
-| Caraxi & Ottermandias | [ChatAlerts](https://github.com/Ottermandias/ChatAlerts) |  |
-| Haplo064 | [Chat Bubbles](https://github.com/Haplo064/ChatBubbles) | Using native chat bubble display, see who is talking about what in a more natural fashion. |
+| Helios | [Adaptive Hud](https://github.com/Helios747/AdaptiveHudPlugin) | 울트라와이드 모니터 유저에게 유용하며, 전체화면/창모드 전환 시에 자동으로 HUD 레이아웃을 변경해주는 플러그인<br><br>명령어 : /pah |
+| Caraxi | [Adventurer in Need](https://github.com/Caraxi/AdventurerInNeed) | 무작위 임무에 부족한 역할군이 생기면 알려주는 플러그인<br><br>명령어 : /pbonus |
+| Critical_Impact | [Allagan Tools](https://github.com/Critical-Impact/InventoryTools) | 인벤토리와 관련된 여러 기능을 제공해주는 플러그인 |
+| Gotest | [Audible Character Status](https://github.com/Arrenton/AudibleCharacterStatus) | HP/MP가 일정 수치 이하로 떨어지면 소리로 알려주는 플러그인 |
+| Infi | [Better Playtime](https://github.com/Infiziert90/BetterPlaytime) | 오늘의 접속 시간 및 캐릭터별 접속 시간을 보여주는 플러그인 |
+| d87 | [BigPlayerDebuffs](https://github.com/rgd87/BigPlayerDebuffs) | 타겟에게 건 디버프의 아이콘을 좀 더 키워주는 플러그인 |
+| ascclemens | [Chat 2](https://git.annaclemens.io/ascclemens/ChatTwo) | 인게임 채팅창을 좀 더 깔끔한 창으로 바꿔주는 플러그인<br>지원하는 기능:<br><br>- 무제한 탭<br>- 특정 채팅 채널로 보내주는 탭<br>- 보다 유연한 필터링<br>- RGB 컬러링<br>- 자유로운 폰트 크기<br>- 사이드바 방식의 탭<br>- 읽지 않은 메시지 표시<br>- 스크린샷 모드 (obfuscate names) |
+| Haplo064 & Khayle | [Chat Bubbles](https://github.com/Haplo064/ChatBubbles) | 채팅을 말풍선으로 보여주는 플러그인 |
 | kij | [ChatCoordinates](https://github.com/kissorjeyabalan/dalamud-chatcoordinates) | Places flag marker on map from coordinates in chat.<br>Opens map with given coordinates for current or given zone.<br>See "/coord" for configuration and usage info. |
-| ascclemens | [Chat 2](https://git.annaclemens.io/ascclemens/ChatTwo) | Chat 2 is a complete rewrite of the in-game chat window as a plugin. It<br>supports:<br><br>- Unlimited tabs<br>- Tabs that always send to a certain channel<br>- More flexible filtering<br>- RGB channel colouring<br>- Completely variable font size<br>- Sidebar tabs<br>- Unread counts<br>- Screenshot mode (obfuscate names) |
 | Franz | [ChatTyper](https://github.com/reiichi001/dalamud-chattyper) | Prefixes all chatbox messages with their chat type number and name, if known. |
 | MidoriKami | [Chill Frames](https://github.com/MidoriKami/ChillFrames) | Tired of your GPU melting your face off while just running around? Why render at 240 FPS when you're just staring at that gathering node? Fret no more! Chill Frames allows you to limit the games framerate while out of combat! |
 | NotNite | [cl_showpos](https://gitlab.com/jules/cl_showpos) | Shows your exact position, rotation, and velocity on screen. Based off of the cl_showpos command from the Source Engine. |
