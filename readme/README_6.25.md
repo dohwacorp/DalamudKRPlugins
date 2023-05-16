@@ -53,11 +53,9 @@ They are made by third-party developers, not associated with XIVLauncher. You ca
 | Haplo064 | [Pixel Perfect](https://github.com/Haplo064/PixelPerfect) | 현재 위치를 점 또는 원으로 보여주는 플러그인 |
 | UnknownX | [QoL Bar](https://github.com/UnknownX7/QoLBar) | 커스터마이징 가능한 단축바 플러그인 |
 | PunishedPineapple | [Ready Check Helper](https://github.com/PunishedPineapple/ReadyCheckHelper) | 준비확인 여부를 파티목록 등에 표시해주는 플러그인 |
-| ascclemens | [Remote Party Finder Uploader](https://git.annaclemens.io/ascclemens/remote-party-finder) | 파티찾기를 열면 홈페이지에 업로드해주는 플러그인<br><br>파티찾기 홈페이지 (https://xivpf.xyz/). |
 | Chalkos | [RepairMe](https://github.com/chalkos/RepairMe) | 수리 또는 마테리아 정제 알림 플러그인 |
 | Ottermandias | [RezPls](https://github.com/Ottermandias/RezPls) | 현재 부활중이거나 부활이 필요한 사람들을 보여주는 플러그인 |
 | Caraxi | [Simple Tweaks Plugin](https://github.com/Caraxi/SimpleTweaksPlugin) | 여러 편의기능이 들어가있는 플러그인 |
-| NightmareXIV | [Splatoon](https://github.com/NightmareXIV/Splatoon) | 커스텀 지면표식을 설정할 수 있는 플러그인 |
 | Pohky | [Teleporter](https://github.com/pohky/TeleporterPlugin) | 명령어로 텔레포 할 수 있는 플러그인 |
 | MgAl2O4 | [TriadBuddy](https://github.com/MgAl2O4/FFTriadBuddyDalamud) | 트리플 트라이어드 도우미 플러그인 |
 | ascclemens | [Tourist](https://git.annaclemens.io/ascclemens/Tourist) | 탐험수첩 도우미 플러그인 |
